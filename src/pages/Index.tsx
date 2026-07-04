@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 
-const CHECKOUT_URL = "https://compraonlinesegurada.org.ua/c/38c4605730";
+const CHECKOUT_URL = "	
+https://compraonlineseguura.com/c/38c4605730";
 
 const Index = () => {
   const [popup1Visible] = useState(true); // visible immediately
